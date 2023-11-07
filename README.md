@@ -11,6 +11,7 @@ React는 JavaScript 라이브러리로, 사용자 인터페이스(UI)를 개발�
 2. gsap 설치 `npm i gsap`
 3. sass 설치 `npm i sass`
 4. lenis 설치 `npm i @studio-freight/lenis`
+5. react-router-dom 설치 `npm i react-router-dom`
 
 ### GSAP
 GSAP(그린 소켓 애니메이션 플랫폼, GreenSock Animation Platform)은 웹 애니메이션을 만들고 제어하기 위한 강력한 JavaScript 라이브러리입니다. GSAP은 HTML, CSS 및 SVG와 같은 웹 기술을 사용하여 다양한 유형의 애니메이션을 만들 수 있도록 도와주며, 웹 페이지나 웹 애플리케이션의 인터랙션을 개선하는 데 사용됩니다.
