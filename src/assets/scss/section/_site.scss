@@ -41,7 +41,7 @@
   border-radius: 20px;
   margin-top: 1rem;
   padding: 4rem;
-  color: var(--black);
+  color: var(--white);
   text-align: center;
   position: sticky;
   left: 0;
@@ -49,22 +49,22 @@
 
 .site__item.s1 {
   top: 180px;
-  background: #87c0e1;
+  background: var(--mainfont-color);
 }
 
 .site__item.s2 {
   top: 200px;
-  background: #aae3ef;
+  background: #4246b7;
 }
 
 .site__item.s3 {
   top: 220px;
-  background: #bcf9e6;
+  background: #4a74d3;
 }
 
 .site__item.s4 {
   top: 240px;
-  background: #ecffd2;
+  background: #5197ed;
 }
 
 .site__wrap .site__item .title {
@@ -91,7 +91,7 @@
   display: inline-block;
   padding: 0.7rem 2.5rem;
   border-radius: 50px;
-  border: 1px solid #000;
+  border: 1px solid #fff;
   margin: 0 0.3rem;
   font-weight: 600;
 }
@@ -99,7 +99,7 @@
 .site__item span.num {
   font-size: 4.5vw;
   font-weight: bold;
-  color: var(--black);
+  color: var(--white);
   text-align: left;
   display: inline-block;
   position: absolute;

@@ -21,7 +21,7 @@
 
 .port__item {
   width: 500px;
-  height: 70vh;
+  height: 75vh;
   background-color: #fefaee;
   margin-right: 20px;
   padding: 1.5rem 2.5rem;
@@ -65,13 +65,35 @@
   line-height: 1.4;
 }
 
+.port__item:nth-child(2n) p.name {
+  color: var(--mainBg-color);
+}
+
+.port__item:nth-child(2n) .port__btn__wrap .port__btn {
+  color: var(--mainBg-color);
+  border: 1px solid var(--mainBg-color);
+}
+
 .port__item a.port__btn {
-  width: 100%;
+  width: 49%;
   text-align: center;
   padding: 12px;
-  border: 1px solid;
+  border: 1px solid var(--mainfont-color);
+  color: var(--mainfont-color);
   border-radius: 0;
   margin-top: 20px;
+}
+
+.port__item p.name {
+  margin-top: 16px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--mainfont-color);
+}
+
+.port__btn__wrap .port__btn {
+  border: 1px solid var(--mainfont-color);
+  color: var(--mainfont-color);
 }
 
 .port__title {
@@ -92,6 +114,13 @@
   font-family: var(--mainKor-font);
   font-size: 1.5rem;
   font-weight: 700;
+}
+
+.port__btn__wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
 
 @media (max-width:800px) {
