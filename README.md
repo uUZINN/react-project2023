@@ -5,6 +5,7 @@ React는 JavaScript 라이브러리로, 사용자 인터페이스(UI)를 개발�
 1. 리액트 설치
 2. git에 업로드
 3. [lenis 사이트](https://lenis.studiofreight.com/)
+4. [firebase 사이트](https://console.firebase.google.com/?hl=ko)
 
 ## 설치
 1. react 설치 `npx create-react-app 프로젝트 이름`
