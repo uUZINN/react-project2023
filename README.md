@@ -19,7 +19,7 @@ React는 JavaScript 라이브러리로, 사용자 인터페이스(UI)를 개발�
 2. `npm install -g firebase-tools`
 3. `firebase login` (vs에서 오류나면 터미널로)
 4. `firebase init` (FIREBASE 문구/본인 이메일 확인)
-5. `Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys` (선택 : 스페이스키 / 확인 : 엔터)
+5. `Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys`   (선택 : 스페이스키 / 확인 : 엔터)
 6. Please select an option: `Use an existing project`
 7. What do you want to use as your public directory? `build`
 8. 다음 질문 연속 No 선택
