@@ -15,6 +15,7 @@ React는 JavaScript 라이브러리로, 사용자 인터페이스(UI)를 개발�
 5. react-router-dom 설치 `npm i react-router-dom`
 
 ### Firebase
+Firebase는 Google에서 제공하는 클라우드 기반 백엔드 서비스 및 개발 플랫폼으로, 모바일 및 웹 애플리케이션을 빠르게 개발하고 호스팅하며, 실시간 데이터베이스, 사용자 인증, 파일 스토리지, 호스팅 및 다양한 개발 도구를 제공합니다. Firebase는 개발자가 서버 관리 및 백엔드 인프라 구축에 대한 걱정 없이 애플리케이션 개발에 집중할 수 있도록 도와줍니다.
 [firebase 사이트](https://console.firebase.google.com/?hl=ko)
 1. 프로젝트 생성
 2. `npm install -g firebase-tools`
