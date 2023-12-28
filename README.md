@@ -1,4 +1,6 @@
 # react를 이용한 포트폴리오 사이트 만들기
+![image](https://github.com/uUZINN/react-project2023/assets/89904583/0ecf0569-b529-4099-8018-25e15de7ae32)
+
 React는 JavaScript 라이브러리로, 사용자 인터페이스(UI)를 개발하는 데 사용되는 매우 인기있는 도구입니다. React는 Facebook에서 개발되었으며, 웹 애플리케이션의 사용자 인터페이스를 구축하고 관리하기 위한 컴포넌트 기반 아키텍처를 제공합니다.
 
 ## 작업 순서
